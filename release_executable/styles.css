@@ -1,0 +1,258 @@
+/* Example styles */
+.login {
+    background: linear-gradient(to right, white , aliceblue);
+    
+    color: black;
+    border: 1px;
+    padding: 10px 20px;
+    border-radius: 50px;
+    box-shadow: rgb(100,255,200);
+    
+}   
+
+
+.addUserScroll {
+    background: linear-gradient(to right, cyan , purple  );
+
+}
+
+.ut_table_tree {
+    background-color: white;
+    border-radius: 50px;
+    
+}
+
+
+.login:hover {
+    background: linear-gradient(to right, rgb(169, 201, 222) , aliceblue);
+   font-weight: bold;
+    color: black;
+    border: 1px;
+    box-shadow: 1px 2px 3px black;
+    padding: 10px 20px;
+    border-radius: 50px;
+    
+}
+
+.containerLogin {
+    background-color: white;
+    background-image: none;
+    border-radius: 50px;
+    font-weight: bold;
+    padding: 10px;
+
+}
+
+.numsInput {
+    background: linear-gradient(to right, rgb(169, 201, 222) , aliceblue);
+    border-radius: 50px;
+    box-shadow: 1px 2px 3px black;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+}
+
+.numsInput:hover {
+    background: linear-gradient(to right, cyan , purple  );
+    
+    border-radius: 50px;
+    box-shadow: 1px 2px 3px black;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+}
+
+.numpad {
+    background-color:white;
+    
+    border-radius: 50px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.container_rec {
+
+    background: linear-gradient(to right, cyan , purple  );
+    box-shadow: 1px 2px 3px black;
+    padding: 40px;
+}
+
+.textContainerCaisse {
+    
+        background-color:white;
+        
+        border-radius: 50px;
+        font-weight: bold;
+        padding: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 20px;
+        
+        margin: 30px;
+    
+    
+    
+}
+.hbuttonCaisse{
+    background-color: white;
+    background-image: none;
+    border-radius: 50px;
+    margin-right: 50px;
+}
+.treeScrollCaisse {
+
+    border-radius: 50px;
+    background-color: white;
+    margin: 20px;
+    padding: 50px;
+}
+
+
+
+.containerLogin:hover {
+    background-color: white;
+    background-image: none;
+    box-shadow: 3px 2px 3px black;
+    border-radius: 50px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+
+.inputes {
+    border-radius: 50px;
+}
+
+.inputes:focus {
+    box-shadow: 1px 3px 2px black;
+}
+.windowLogin {
+    background: linear-gradient(to right, purple , cyan);
+}
+
+.containerItemsDash {
+    margin:30px;
+    padding: 30px;
+    background-color: aliceblue;
+    background-image: none;
+    border-radius: 50px;
+}
+
+.containergessstock {
+    margin:30px;
+    padding: 30px;
+    background-color: aliceblue;
+    background-image: none;
+    border-radius: 50px;
+}
+.containerProd {
+    margin:30px;
+    padding: 30px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: white;
+    border-radius: 50px;
+}
+
+.rec_tree_container {
+    margin: 20px;
+    border-radius: 50px;
+    background-image: none;
+    background-color: white;
+    font-weight: bold;
+  
+    
+}
+
+.recherche_box {
+    margin:30px;
+    padding: 30px;
+    font-weight: bold;
+    font-size: 20px;
+    
+    background: white;
+    border-radius: 50px;
+}
+
+.listProduct {
+    margin:30px;
+    
+    
+
+}
+
+
+.windowDash {
+    
+    
+    background-image: url("abs.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+    padding: 50px;
+}
+
+
+.buttonsDash {
+    background-image: none;
+    background-color: white;
+    color:black;
+    font-weight: bold;
+    border: 1px;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 50px;
+    box-shadow: 1px 2px 3px black;
+   
+    
+
+}
+
+.containerProdStock {
+    background-image: url("abs.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 50px;
+}
+
+
+.containerProdItems
+{
+    background: white;
+    border-radius: 50px;
+    margin: 50px;
+    padding: 25px;
+
+}
+.containerWidg
+{
+    background-image: none;
+    background: white;
+    border-radius: 50px;
+    margin: 50px;
+    padding: 25px;
+
+}
+
+.containerButtons {
+    background: linear-gradient(to bottom, #D6EAF8    , #5ce1e1    );
+    color: white;
+    background-image: none;
+}
+
+.gridMain{
+    border-radius: 50px;
+    
+}
+
+.buttonsDash:hover {
+    background: linear-gradient(to right, cyan , purple  );
+     color: black;
+     border: 1px;
+     padding: 10px 20px;
+     border-radius: 50px;
+
+}
+

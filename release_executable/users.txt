@@ -1,0 +1,5 @@
+chef,chef,admin,
+mimi_1,mimi,emp,
+yass,yass,admin,
+kamel,kamel,admin,
+test,test123,emp,

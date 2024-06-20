@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/com/gec/saifeddine/">
+    <file>abs.jpg</file>
+    <file>add-product.png</file>
+    <file>add.png</file>
+    <file>addprod.glade</file>
+    <file>ajout_ut_diag.glade</file>
+    <file>checkout.png</file>
+    <file>exp.xml</file>
+    <file>30.png</file>
+    <file>icons8-add-32.png</file>
+    <file>gec_caisse_functions.h</file>
+    <file>hf.csv</file>
+    <file>icons8-add-user-male-32.png</file>
+    <file>icons8-buy-for-change-32.png</file>
+    <file>icons8-check-dollar-32.png</file>
+    <file>icons8-delete-all-32.png</file>
+    <file>icons8-delete-document-32.png</file>
+    <file>icons8-parcel-32.png</file>
+    <file>icons8-playlist-32.png</file>
+    <file>icons8-price-tag-euro-32.png</file>
+    <file>icons8-product-32.png</file>
+    <file>icons8-sign-document-32.png</file>
+    <file>icons8-trash-32.png</file>
+    <file>login.glade</file>
+    <file>logo.png</file>
+    <file>main.glade</file>
+    <file>quantity.glade</file>
+    <file>recettes.csv</file>
+    <file>sales.png</file>
+    <file>sidebar.png</file>
+    <file>styles.css</file>
+    <file>users.txt</file>
+  </gresource>
+</gresources>
